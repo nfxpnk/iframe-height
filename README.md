@@ -10,4 +10,4 @@ Run following commands
 
 `node server.js`
 
-Open http://127.0.0.1::5032/
+Open http://127.0.0.1:5032/
